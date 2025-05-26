@@ -3,6 +3,8 @@
  DataSaarthi 🚀  
 **AI-Powered Intelligent Data Insight Assistant**
 
+[DEMO](https://drive.google.com/file/d/1MBBRHH31NupHdYC5r8fu5K3P7-_p5CA2/view?usp=drive_link)
+
 DataSaarthi is an interactive and smart data companion designed to help users extract meaningful insights from raw datasets without requiring advanced technical knowledge. Born out of a state-level hackathon challenge, DataSaarthi blends automation, AI, and user-centric design to simplify data understanding, anomaly detection, and decision-making.
 
  🧠 Key Features

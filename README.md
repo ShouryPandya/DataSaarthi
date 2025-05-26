@@ -28,7 +28,10 @@ DataSaarthi is an interactive and smart data companion designed to help users ex
 - **Frontend**: HTML/CSS, JavaScript (or Streamlit if using Python-based UI)  
 - **Backend**: Python, Pandas, NumPy, Scikit-learn  
 - **Visualization**: Matplotlib, Seaborn, Plotly  
-- **Deployment**: Local/Cloud (Planned for future)
+- **Google AI for Developers**: Tool for developing API and Services
+- -**API and Model**: GOOGLE FLASH 1.5
+- -**FIREBASE SDK**:  For Secured Login and Registration    
+- - **Deployment**: Local/Cloud (Planned for future)
 
 ---
 

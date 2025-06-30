@@ -1,0 +1,32 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables and secrets
+.env
+firebase_key.json
+
+# Streamlit specific
+.streamlit/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Reports and datasets
+*.pdf
+*.csv
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# VSCode config
+.vscode/

@@ -1,1 +1,9 @@
-
+pandas
+streamlit
+firebase-admin
+google-generativeai
+plotly
+numpy
+scikit-learn
+scipy
+reportlab

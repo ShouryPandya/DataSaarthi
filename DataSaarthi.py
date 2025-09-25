@@ -117,7 +117,7 @@ if "messages" not in st.session_state:
     st.session_state["messages"] = []
 
 # Firebase json open 
-key_path = r"D:\VS PYTHON\DataSaarthi\pandyashoury-firebase.json"
+key_path = r"pandyashoury-firebase.json"
 if not firebase_admin._apps:
     cred = credentials.Certificate(key_path)
     firebase_admin.initialize_app(cred, {
@@ -553,3 +553,4 @@ if st.session_state["logged_in"]:
                 st.session_state["messages"].append({"role": "assistant", "content": response.text})
             else:
                 st.error("No response received from the model.")
+
